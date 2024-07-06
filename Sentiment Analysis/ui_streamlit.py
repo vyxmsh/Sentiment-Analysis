@@ -77,7 +77,7 @@ def main():
     elif page == 'About':
         st.header('About')
         st.write('This is a sentiment analysis web application.')
-        st.write('Created by Gaurav Singh Bisht.')
+        st.write('Created by Vyomesh Naithani.')
 
 if __name__ == '__main__':
     main()
